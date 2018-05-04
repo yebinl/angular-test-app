@@ -1,6 +1,7 @@
 # A4app
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
+This is a Angular test app. It covers most of the common angular syntax and usage.
 
 ## Development server
 
